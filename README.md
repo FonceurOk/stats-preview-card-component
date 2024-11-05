@@ -1,1 +1,1 @@
-# stats-prewiew-card-component
+# stats-preview-card-component
