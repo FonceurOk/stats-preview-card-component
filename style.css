@@ -4,4 +4,52 @@
 
 body {
     background-color: #0A0C1C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 98vh;
+}
+
+main {
+    overflow: hidden;
+    background-color: #1B1937;
+    width: 1110px;
+    height: 446px;
+    display: flex;
+}
+
+.box {
+    padding: 48px;
+    margin-right: 270px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+span {
+    color: #AB5CDB;
+}
+
+p {
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.img {
+    width: 540px;
+    height: 446px;
+    margin-right: 00px;
+    display: flex;
+}
+
+.img :hover {
+    background-color: #AB5CDB;
+}
+
+.group H{
+    display: flex;
+}
+
+.group p{
+    margin-right: 12px;
 }
